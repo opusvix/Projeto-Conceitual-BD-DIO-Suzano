@@ -25,7 +25,7 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 
 ## Respostas do Desafio
 
-
+![img](https://github.com/htonioni/mysql-projeto-conceitual-bd-DIO/blob/main/ECOMMERCE/ecommerce_imagem.png)
 
 - Para a entidade Cliente foram criadas duas novas entidades  ``PJ_Pessoa Juridica`` e ``PF_Pessoa Fisica`` contendo as informações de CNPJ e CPF.
 - No caso de Pagamento a entidade esta atribuída a outras duas entidades afim de detalhar as formas de pagamento : Cartão e Boleto.
