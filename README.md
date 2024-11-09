@@ -21,7 +21,7 @@ Refinar o modelo apresentado acrescentando os seguintes pontos:
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
 
-## Respostas do Desafio
+## Respostas ao Desafio
 
 ![img](https://github.com/htonioni/mysql-projeto-conceitual-bd-DIO/blob/main/ECOMMERCE/ecommerce_imagem.png)
 
