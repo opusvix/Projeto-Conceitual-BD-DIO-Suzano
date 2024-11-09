@@ -1,4 +1,4 @@
-# Refinando um Projeto Conceitual de Banco de Dados - E-Commerce:
+# Refinando um Projeto Conceitual de Banco de Dados - E-Commerce
 
 #### Desafio de Projeto proposto no Bootcamp Suzano - Análise de Dados com Power BI na plataforma [DIO.](https://www.dio.me/)
 
